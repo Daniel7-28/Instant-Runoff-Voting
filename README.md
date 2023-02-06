@@ -47,4 +47,4 @@ candidate now becomes #2, and so on. In general, if the candidate being eliminat
 rank value of k in a ballot, then all candidates on that ballot with a rank greater than k will have
 their rank subtracted by 1, hence giving them a lower rank (higher preference).
 
-More details check de pdf.
+The inputs are readed from a csv file and the output can be see on a textfile. 
